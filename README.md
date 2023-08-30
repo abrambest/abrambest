@@ -23,8 +23,8 @@
 * 🔠 ASCII-ART <a href="https://github.com/abrambest/go-reloaded">ascii-art</a>, <a href="https://github.com/abrambest/ascii-art-color">ascii-art-color</a>, <a href="https://github.com/abrambest/ascii-art-web">ascii-art-web</a>
 <br>
 * 💽 Coming soon - <a href="#">groupie-tracker</a>
+<hr>
 
-<br>
 
 #### My stat
 
