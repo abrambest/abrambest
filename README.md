@@ -24,11 +24,14 @@
 <br>
 * 💽 Coming soon - <a href="#">groupie-tracker</a>
 
+<br>
+
+#### My stat
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrambest&theme=default"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abrambest&theme=default"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrambest&theme=dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abrambest&theme=dark"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abrambest&theme=default"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abrambest&theme=dark"/>
 </div>
 
