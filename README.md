@@ -21,7 +21,7 @@
 
 * 📄 Work with text <a href="https://github.com/abrambest/go-reloaded">go-reloaded</a>
 * 🔠 ASCII-ART <a href="https://github.com/abrambest/go-reloaded">ascii-art</a>, <a href="https://github.com/abrambest/ascii-art-color">ascii-art-color</a>, <a href="https://github.com/abrambest/ascii-art-web">ascii-art-web</a>
-* JSON parse <a href="https://github.com/abrambest/groupie-tracker">groupie-tracker</a>
+* 📠 JSON parse <a href="https://github.com/abrambest/groupie-tracker">groupie-tracker</a>
 * 💽 Coming soon - <a href="#">net-cat</a>
 <hr>
 
